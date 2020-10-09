@@ -25,4 +25,5 @@ fields:
   label: disable_share
 pages:
 - content/axelpiou.md
+- content/post/axelpiou.md
 - content/post/chapter-6.md
